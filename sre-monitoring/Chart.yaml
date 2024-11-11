@@ -1,0 +1,6 @@
+apiVersion: v2
+name: grafana-prometheus-chart
+description: A Helm chart to deploy Grafana, Prometheus, and Node Exporter for basic monitoring
+version: 0.1.0
+appVersion: "1.0"
+
